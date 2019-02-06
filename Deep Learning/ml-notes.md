@@ -2,22 +2,22 @@
  
 ## Challenges faced by an Expert System
 
-1. Huge amount of data to process.
-2. Unknown rules.
-3. Complex rules.
-4. Inexplicable rules.
+- Huge amount of data to process.
+- Unknown rules.
+- Complex rules.
+- Inexplicable rules.
  
 ## 6 Jars of Machine Learning
  
 ### 1. Data
 In other words information available in various format knows as data.
  
-Types of data
-    * Structured data [e.g. Data in form of a table]
-    * Unstructured data [e.g. reviews, raw product description, user comments etc.]
-    * Image data [e.g. product pictures]
-    * Video data [e.g. YouTube tutorial]
-    * Audio/Speech data [e.g. gaana.com]
+#### Types of data
+- Structured data [e.g. Data in form of a table]
+- Unstructured data [e.g. reviews, raw product description, user comments etc.]
+- Image data [e.g. product pictures]
+- Video data [e.g. YouTube tutorial]
+- Audio/Speech data [e.g. gaana.com]
  
 All the data has to be encoded as number [Machines only understand numbers]
  
