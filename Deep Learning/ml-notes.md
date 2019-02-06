@@ -30,12 +30,12 @@ So in mathematical terms, if x is data and y is output that can be curated with 
 Now based on a given set of x and y, one can train a machine to determine the relation i.e. ![equation](https://latex.codecogs.com/gif.latex?f%28x%29) and this phenomena is called Machine Learning in layman's term. 
  
 Types of task
-    * Supervised
-        * Classification [e.g. binary classification, multi-class classification ]
-        * Regression
-    * Unsupervised
-        * Clustering
-        * Generation
+- Supervised
+  - Classification (e.g. binary classification, multi-class classification)
+    - Regression
+- Unsupervised
+  - Clustering
+  - Generation
  
 ### 3. Models
 In the tasks section we established a relation.
@@ -49,26 +49,27 @@ The true relation between x and y is not a model. The different types of functio
 One of our job is to tell the machine to determine the parameters of an equation based on a given set of x and y.
  
 The Neural Network Family of Functions
-    * Sigmoid function or Logistics function 
-    * Deep Convolutional Deep Neural Network function 
-    * Recurrent Neural Network 
-    * Neural Network function [Composite function of many sigmoid function]
+- Sigmoid function or Logistics function 
+- Deep Convolutional Deep Neural Network function 
+- Recurrent Neural Network 
+- Neural Network function (Composite function of many sigmoid function)
  
 ### 4. Loss Function
+
 A loss function helps to determine the closest model.
  
 Let's say we have proposed 5 models that we think best describes the relation between x and y (![equation](https://latex.codecogs.com/gif.latex?f%28x%29)). Now by the loss function we can determine the loss each models produced. It is pretty straight forward. The model that produces least loss is the best suitable to describe ![equation](https://latex.codecogs.com/gif.latex?f%28x%29).
  
 The loss function can be defined as follows:
  
-Where L = Loss value [Goal is to find the model which produces the least L]
-            y = True value
-         f^(x) = Value produced by the proposed model
+Where L = Loss value (Goal is to find the model which produces the least L)
+      y = True value
+  f^(x) = Value produced by the proposed model
  
 Few example of loss function
-    * Squared Error
-    * Cross Entropy
-    * Kullback–Leibler [KL] Divergence
+- Squared Error
+- Cross Entropy
+- Kullback–Leibler [KL] Divergence
  
 We take square of the difference as some of the difference may be -ve and some of them my be +ve and they can cancel each other which will prevent us from getting the correct summation. So we square to make the -ve values into +ve and add them up like a boss.
  
@@ -82,26 +83,26 @@ So we need to find am efficient way to compute these coefficients given the data
 Look into the way to determine minima of y = mx + c
  
 Types of Learning Algorithm / Optimization Solvers
-    * Gradient Descent and it's Variants
-    * Adagrad
-    * RMSprop
-    * Adam
-    * Backpropagation [Used for training DNN]
-    * Backpropagation Through Time [BPTT: Used for training RNN]
+- Gradient Descent and it's Variants
+- Adagrad
+- RMSprop
+- Adam
+- Backpropagation (Used for training DNN)
+- Backpropagation Through Time (BPTT: Used for training RNN)
  
 ### 6. Evaluation
 Every program or build need to be evaluated before making it to the world. It can be viewed as scoring system based on certain tests. The score being the value on how well the program performs in real world scenario.
  
 Types of  Evaluation Matrix
-    * [Top-k] Accuracy
-    * Precision, Recall and F1 Score
+- (Top-k) Accuracy
+- Precision, Recall and F1 Score
 
 ## Summary: 6 Jars of Machine Learning
 
 So here are the 6 jars of machine learning. The relation can be stated as:
-* There are Data [x] 
-* And there are Tasks [y]
-* Based on which Models [f^(x)] can be proposed
-* And a machine Learns the algorithm based on which it tries to determine the parameters of Models [f^(x)]
-* And tries to determine the best Model [f^(x)] closest to the actual solution [y = f(x)]
-* Such that the Loss [L] is minimum
+- There are Data (x) 
+- And there are Tasks (y)
+- Based on which Models [f^(x)] can be proposed
+- And a machine Learns the algorithm based on which it tries to determine the parameters of Models [f^(x)]
+- And tries to determine the best Model [f^(x)] closest to the actual solution [y = f(x)]
+- Such that the Loss [L] is minimum
