@@ -1,5 +1,3 @@
-![equation](https://latex.codecogs.com/gif.latex?%7Ba_0%7D%7Bx%5En%7D&plus;%7Ba_1%7D%7Bx%5E%7Bn-1%7D%7D&plus;...&plus;%7Ba_n%7D%20%3D%200)
-
 04.02.2019
  
 Challenges faced by an Expert System
@@ -43,7 +41,7 @@ In the tasks section we established a relation.
  
 y = f(x) where y is the output, x is the input/data and f(x) being the relation between x and y.
  
-Now this f(x) can be anything. Starting from a linear equation [y = mx + c] to an n-th degree polynomial. [ ]. These functions are called models as these expressions/equations are trying to model the relation between x and y.
+Now this f(x) can be anything. Starting from a linear equation [y = mx + c] to an n-th degree polynomial. [![equation](https://latex.codecogs.com/gif.latex?%7Ba_0%7D%7Bx%5En%7D&plus;%7Ba_1%7D%7Bx%5E%7Bn-1%7D%7D&plus;...&plus;%7Ba_n%7D%20%3D%200)]. These functions are called models as these expressions/equations are trying to model the relation between x and y.
  
 The true relation between x and y is not a model. The different types of functions that are being tried in order to determine the true relation or get as close as possible is called a model.
  
