@@ -64,6 +64,8 @@ A loss function helps to determine the closest model.
 Let's say we have proposed 5 models that we think best describes the relation between x and y (![equation](https://latex.codecogs.com/gif.latex?f%28x%29)). Now by the loss function we can determine the loss each models produced. It is pretty straight forward. The model that produces least loss is the best suitable to describe ![equation](https://latex.codecogs.com/gif.latex?f%28x%29).
  
 The loss function can be defined as follows:
+
+![equation](https://latex.codecogs.com/gif.latex?L%20%3D%20%5Csum_%7Bi%3D1%7D%5E%7Bn%7D%28y_i%20-f%28x_i%29%29%5E2)
  
 Where L = Loss value (Goal is to find the model which produces the least L)
       y = True value
