@@ -10,6 +10,7 @@
 ## 6 Jars of Machine Learning
  
 ### 1. Data
+
 In other words information available in various format knows as data.
  
 #### Types of data
@@ -23,13 +24,14 @@ In other words information available in various format knows as data.
 All the data has to be encoded as number (Machines only understand numbers)
  
 ### 2. Tasks
+
 The process of producing an output based on some input in this case data) is known as tasks. e.g. curation of FAQ based on user comments on a particular product.
  
 So in mathematical terms, if x is data and y is output that can be curated with x, the task can be defined as "generating y with ![equation](https://latex.codecogs.com/gif.latex?f%28x%29)" where ![equation](https://latex.codecogs.com/gif.latex?f%28x%29) being the relation between x and y.
  
 Now based on a given set of x and y, one can train a machine to determine the relation i.e. ![equation](https://latex.codecogs.com/gif.latex?f%28x%29) and this phenomena is called Machine Learning in layman's term. 
  
-Types of task
+#### Types of task
 - Supervised
   - Classification (e.g. binary classification, multi-class classification)
     - Regression
