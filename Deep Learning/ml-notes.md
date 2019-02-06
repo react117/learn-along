@@ -69,7 +69,7 @@ The loss function can be defined as follows:
  
 Where L = Loss value (Goal is to find the model which produces the least L)
       y = True value
-  f^(x) = Value produced by the proposed model
+  ![equation](https://latex.codecogs.com/gif.latex?%5Chat%7Bf%28x%29%29%7D) = Value produced by the proposed model
  
 #### Few example of loss function
 - Squared Error
