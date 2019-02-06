@@ -67,9 +67,10 @@ The loss function can be defined as follows:
 
 ![equation](https://latex.codecogs.com/gif.latex?L%20%3D%20%5Csum_%7Bi%3D1%7D%5E%7Bn%7D%28y_i%20-f%28x_i%29%29%5E2)
  
-Where L = Loss value (Goal is to find the model which produces the least L)
-      y = True value
-  ![equation](https://latex.codecogs.com/gif.latex?%5Chat%7Bf%28x%29%29%7D) = Value produced by the proposed model
+Where,
+L = Loss value (Goal is to find the model which produces the least L)
+y = True value
+![equation](https://latex.codecogs.com/gif.latex?%5Chat%7Bf%28x%29%29%7D) = Value produced by the proposed model
  
 #### Few example of loss function
 - Squared Error
