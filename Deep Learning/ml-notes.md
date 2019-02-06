@@ -43,9 +43,9 @@ Now based on a given set of x and y, one can train a machine to determine the re
 
 In the tasks section we established a relation.
  
-y = f(x) where y is the output, x is the input/data and ![equation](https://latex.codecogs.com/gif.latex?f%28x%29) being the relation between x and y.
+![equation](https://latex.codecogs.com/gif.latex?y%20%3D%20f%28x%29) where y is the output, x is the input/data and ![equation](https://latex.codecogs.com/gif.latex?f%28x%29) being the relation between x and y.
  
-Now this f(x) can be anything. Starting from a linear equation [y = mx + c] to an n-th degree polynomial. [![equation](https://latex.codecogs.com/gif.latex?%7Ba_0%7D%7Bx%5En%7D&plus;%7Ba_1%7D%7Bx%5E%7Bn-1%7D%7D&plus;...&plus;%7Ba_n%7D%20%3D%200)]. These functions are called models as these expressions/equations are trying to model the relation between x and y.
+Now this ![equation](https://latex.codecogs.com/gif.latex?f%28x%29) can be anything. Starting from a linear equation (![equation](https://latex.codecogs.com/gif.latex?y%20%3D%20mx%20&plus;%20c)) to an n-th degree polynomial. [![equation](https://latex.codecogs.com/gif.latex?%7Ba_0%7D%7Bx%5En%7D&plus;%7Ba_1%7D%7Bx%5E%7Bn-1%7D%7D&plus;...&plus;%7Ba_n%7D%20%3D%200)]. These functions are called models as these expressions/equations are trying to model the relation between x and y.
  
 The true relation between x and y is not a model. The different types of functions that are being tried in order to determine the true relation or get as close as possible is called a model.
  
@@ -88,9 +88,9 @@ Now lets say we have an n-th degree polynomial [![equation](https://latex.codeco
  
 But in real world scenario this method is absurd. Like "a man in an iron suite" absurd. 
  
-So we need to find am efficient way to compute these coefficients given the data [x/y], given the model [f^(x)] and given the loss function [L] such that the L is minimized. So it can be labelled as an optimization problem.
+So we need to find am efficient way to compute these coefficients given the data [x/y], given the model (![equation](https://latex.codecogs.com/gif.latex?%5Chat%7Bf%28x%29%29%7D)) and given the loss function [L] such that the L is minimized. So it can be labelled as an optimization problem.
  
-Look into the way to determine minima of y = mx + c
+Look into the way to determine minima of ![equation](https://latex.codecogs.com/gif.latex?y%20%3D%20mx%20&plus;%20c)
  
 #### Types of Learning Algorithm / Optimization Solvers
 - Gradient Descent and it's Variants
@@ -116,7 +116,7 @@ Every program or build need to be evaluated before making it to the world. It ca
 #### So here are the 6 jars of machine learning. The relation can be stated as:
 - There are Data (x) 
 - And there are Tasks (y)
-- Based on which Models [f^(x)] can be proposed
-- And a machine Learns the algorithm based on which it tries to determine the parameters of Models [f^(x)]
-- And tries to determine the best Model [f^(x)] closest to the actual solution [y = f(x)]
-- Such that the Loss [L] is minimum
+- Based on which Models (![equation](https://latex.codecogs.com/gif.latex?%5Chat%7Bf%28x%29%29%7D)) can be proposed
+- And a machine Learns the algorithm based on which it tries to determine the parameters of Models (![equation](https://latex.codecogs.com/gif.latex?%5Chat%7Bf%28x%29%29%7D))
+- And tries to determine the best Model (![equation](https://latex.codecogs.com/gif.latex?%5Chat%7Bf%28x%29%29%7D)) closest to the actual solution (![equation](https://latex.codecogs.com/gif.latex?y%20%3D%20f%28x%29))
+- Such that the Loss (L) is minimum
