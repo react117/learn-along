@@ -80,7 +80,7 @@ We take square of the difference as some of the difference may be -ve and some o
  
 ### 5. Learning Algorithm
 
-Now lets say we have an n-th degree polynomial [] as model and we have our set of x and  y. Now we have another hurdle to cross. That is to find the parameters i.e. the coefficients of x. We can use brute force method where we can fix (n-1) coefficients and vary the last coefficient and check for which value the loss is minimum. We can repeat this process for every coefficient.
+Now lets say we have an n-th degree polynomial [![equation](https://latex.codecogs.com/gif.latex?%7Ba_0%7D%7Bx%5En%7D&plus;%7Ba_1%7D%7Bx%5E%7Bn-1%7D%7D&plus;...&plus;%7Ba_n%7D%20%3D%200)] as model and we have our set of x and  y. Now we have another hurdle to cross. That is to find the parameters i.e. the coefficients of x. We can use brute force method where we can fix (n-1) coefficients and vary the last coefficient and check for which value the loss is minimum. We can repeat this process for every coefficient.
  
 But in real world scenario this method is absurd. Like "a man in an iron suite" absurd. 
  
