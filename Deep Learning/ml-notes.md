@@ -1,3 +1,5 @@
+<a href="https://www.codecogs.com/eqnedit.php?latex=𝑎0𝑥𝑛&plus;𝑎1𝑥𝑛−1&plus;⋯&plus;𝑎𝑛=0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?𝑎0𝑥𝑛&plus;𝑎1𝑥𝑛−1&plus;⋯&plus;𝑎𝑛=0" title="𝑎0𝑥𝑛+𝑎1𝑥𝑛−1+⋯+𝑎𝑛=0" /></a>
+
 04.02.2019
  
 Challenges faced by an Expert System
