@@ -105,6 +105,10 @@ Every program or build need to be evaluated before making it to the world. It ca
 
 ## Summary: 6 Jars of Machine Learning
 
+
+![6 jars of machine learning](assets/6-jars-of-machine-learning.PNG)
+
+
 #### So here are the 6 jars of machine learning. The relation can be stated as:
 - There are Data (x) 
 - And there are Tasks (y)
