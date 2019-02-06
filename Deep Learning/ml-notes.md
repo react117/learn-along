@@ -1,4 +1,4 @@
-<a href="https://www.codecogs.com/eqnedit.php?latex=𝑎0𝑥𝑛&plus;𝑎1𝑥𝑛−1&plus;⋯&plus;𝑎𝑛=0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?𝑎0𝑥𝑛&plus;𝑎1𝑥𝑛−1&plus;⋯&plus;𝑎𝑛=0" title="𝑎0𝑥𝑛+𝑎1𝑥𝑛−1+⋯+𝑎𝑛=0" /></a>
+![equation](https://latex.codecogs.com/gif.latex?%7Ba_0%7D%7Bx%5En%7D&plus;%7Ba_1%7D%7Bx%5E%7Bn-1%7D%7D&plus;...&plus;%7Ba_n%7D%20%3D%200)
 
 04.02.2019
  
