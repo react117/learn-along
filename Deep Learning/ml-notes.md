@@ -15,15 +15,11 @@ In other words information available in various format knows as data.
 #### Types of data
 
 - Structured data [e.g. Data in form of a table]
-
 - Unstructured data [e.g. reviews, raw product description, user comments etc.]
-
 - Image data [e.g. product pictures]
-
 - Video data [e.g. YouTube tutorial]
-
 - Audio/Speech data [e.g. gaana.com]
- 
+
 All the data has to be encoded as number [Machines only understand numbers]
  
 ### 2. Tasks
