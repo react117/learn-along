@@ -53,9 +53,9 @@ One of our job is to tell the machine to determine the parameters of an equation
  
 #### The Neural Network Family of Functions
 - Sigmoid function or Logistics function ![equation](https://latex.codecogs.com/gif.latex?y%20%3D%20%5Csigma%28%5Comega%20x&plus;b%29)
-- Deep Convolutional Deep Neural Network function (y = DEEP_CNN(x))
-- Recurrent Neural Network (y = RNN(x))
-- Neural Network function (Composite function of many sigmoid function) (y = DEEP_NN(x))
+- Deep Convolutional Deep Neural Network function ![equation](https://latex.codecogs.com/gif.latex?y%20%3D%20DEEP%5C_CNN%28x%29)
+- Recurrent Neural Network ![equation](https://latex.codecogs.com/gif.latex?y%20%3D%20RNN%28x%29)
+- Neural Network function (Composite function of many sigmoid function) ![equation](https://latex.codecogs.com/gif.latex?y%20%3D%20DEEP%5C_NN%28x%29)
  
 ### 4. Loss Function
 
