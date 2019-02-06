@@ -52,10 +52,10 @@ The true relation between x and y is not a model. The different types of functio
 One of our job is to tell the machine to determine the parameters of an equation based on a given set of x and y.
  
 #### The Neural Network Family of Functions
-- Sigmoid function or Logistics function 
-- Deep Convolutional Deep Neural Network function 
-- Recurrent Neural Network 
-- Neural Network function (Composite function of many sigmoid function)
+- Sigmoid function or Logistics function ![equation](https://latex.codecogs.com/gif.latex?y%20%3D%20%5Csigma%28%5Comega%20x&plus;b%29)
+- Deep Convolutional Deep Neural Network function (y = DEEP_CNN(x))
+- Recurrent Neural Network (y = RNN(x))
+- Neural Network function (Composite function of many sigmoid function) (y = DEEP_NN(x))
  
 ### 4. Loss Function
 
