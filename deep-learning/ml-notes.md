@@ -1,4 +1,4 @@
-> ### A full length stpry can be found here on [Expert System Machine Learning: The 6 Jars](https://medium.com/@react117/expert-system-machine-learning-the-6-jars-13aa5f7d2048)
+> ### A full length story can be found on [Expert System Machine Learning: The 6 Jars](https://medium.com/@react117/expert-system-machine-learning-the-6-jars-13aa5f7d2048)
  
 ## Challenges faced by an Expert System
 
