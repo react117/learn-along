@@ -79,4 +79,8 @@ Then the dot product of ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%
 
 ***
 
+- ### Vector Projection onto another Vector
+
 ![Vector Projection onto another Vector](assets/vector-projection-onto-another-vector-updated.PNG)
+
+Let us assume ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Ba%7D) and ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Bb%7D) are two vectors.
