@@ -29,5 +29,18 @@ If we multiply ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%
 Let us assume ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Ba%7D) and ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Bb%7D) are two vectors such that 
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Ba%7D%20%3D%20%28x%2Cy%29)
-and
+
 ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Bb%7D%20%3D%20%28u%2Cv%29)
+
+And let say ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Bc%7D) and ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Bd%7D) are two other vectors such that
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Bc%7D%20%3D%20%5Cvec%7Ba%7D&plus;%5Cvec%7Bb%7D)
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Bd%7D%20%3D%20%5Cvec%7Ba%7D-%5Cvec%7Bb%7D)
+
+Then they can be defined as follows
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Bc%7D%20%3D%20%28x&plus;u%2Cy&plus;v%29)
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Bd%7D%20%3D%20%28x-u%2Cy-v%29)
+
