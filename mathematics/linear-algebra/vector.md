@@ -50,7 +50,7 @@ Then they can be defined as follows
 
 - ### Unit Vector
 
-A unit vector is a vector of magnitude 1.
+> A unit vector is a vector of magnitude 1.
 
 Let us assume ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Ba%7D) be a vector such that 
 
