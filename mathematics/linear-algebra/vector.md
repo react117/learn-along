@@ -79,4 +79,4 @@ Then the dot product of ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%
 
 ***
 
-![Vector Projection onto another Vector](assets/vector-projection-onto-another-vector.PNG)
+![Vector Projection onto another Vector](assets/vector-projection-onto-another-vector-updated.PNG)
