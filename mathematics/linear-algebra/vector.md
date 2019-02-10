@@ -22,3 +22,12 @@ Let us assume ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%2
 If we multiply ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Ba%7D) by a scaler e.g. 5 then it can be defined as
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%205.%5Cvec%7Ba%7D%20%3D%20%285x%2C5y%29)
+
+
+- ### Vector addition and subtraction
+
+Let us assume ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Ba%7D) and ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Bb%7D) are two vectors such that 
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Ba%7D%20%3D%20%28x%2Cy%29)
+and
+![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Bb%7D%20%3D%20%28u%2Cv%29)
