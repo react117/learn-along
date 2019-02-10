@@ -63,3 +63,14 @@ Then the unit vector in the direction of ![equation](https://latex.codecogs.com/
 
 ***
 
+- ### Vector Dot Product
+
+Let us assume ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Ba%7D) and ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Bb%7D) are two vectors such that 
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Ba%7D%20%3D%20%28x%2Cy%29)
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Bb%7D%20%3D%20%28u%2Cv%29)
+
+And let say ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Bc%7D) is the dot product of ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Ba%7D) and ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Bb%7D) then it can be defined as
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cvec%7Bc%7D%20%3D%20%5Cvec%7Ba%7D%20.%20%5Cvec%7Bb%7D%20%3D%20%28x.u&plus;y.v%29)
