@@ -61,7 +61,7 @@ Let us assume ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%2
 
 Then the unit vector in the direction of ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Ba%7D) can be defined as
 
-> ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Chat%7Ba%7D%20%3D%20%5Cfrac%7B%5Cvec%7Ba%7D%7D%7B%5Cleft%20%5C%7C%20a%20%5Cright%20%5C%7C%7D%20%3D%20%5Cfrac%7B1%7D%7B%5Csqrt%7Bx%5E2&plus;y%5E2%7D%7D%5Cbegin%7Bbmatrix%7D%20x%5C%5Cy%20%5Cend%7Bbmatrix%7D)
+> ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Chat%7Ba%7D%20%3D%20%5Cfrac%7B%5Cvec%7Ba%7D%7D%7B%5Cleft%20%5C%7C%20%5Cvec%7Ba%7D%20%5Cright%20%5C%7C%7D%20%3D%20%5Cfrac%7B1%7D%7B%5Csqrt%7Bx%5E2&plus;y%5E2%7D%7D%20%5Cbegin%7Bbmatrix%7Dx%5C%5Cy%20%5Cend%7Bbmatrix%7D)
 
 ***
 
