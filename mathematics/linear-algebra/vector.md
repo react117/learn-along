@@ -2,7 +2,7 @@
 
 ***
 
-- ## Magnitude of a Vector (Norm)
+## Magnitude of a Vector (Norm)
 
 Let us assume ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Ba%7D) is a vector such that 
 
@@ -15,7 +15,7 @@ Then the magnitude of the vector ![equation](https://latex.codecogs.com/gif.late
 
 ***
 
-- ## Scalar Multiplication
+## Scalar Multiplication
 
 Let us assume ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Ba%7D) is a vector such that 
 
@@ -28,7 +28,7 @@ If we multiply ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%
 
 ***
 
-- ## Vector Addition and Subtraction
+## Vector Addition and Subtraction
 
 Let us assume ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Ba%7D) and ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Bb%7D) are two vectors such that 
 
@@ -50,7 +50,7 @@ Then they can be defined as follows
 
 ***
 
-- ## Unit Vector
+## Unit Vector
 
 #### A unit vector is a vector of magnitude 1.
 
@@ -65,7 +65,7 @@ Then the unit vector in the direction of ![equation](https://latex.codecogs.com/
 
 ***
 
-- ## Vector Dot Product
+## Vector Dot Product
 
 Let us assume ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Ba%7D) and ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Bb%7D) are two vectors such that 
 
@@ -83,7 +83,7 @@ Then the dot product of ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%
 
 ***
 
-- ## Vector Projection onto another Vector
+## Vector Projection onto another Vector
 
 ![Vector Projection onto another Vector](assets/vector-projection-onto-another-vector-updated.PNG)
 
