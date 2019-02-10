@@ -79,7 +79,7 @@ Then the dot product of ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%
 
 #### Corollary
 
-![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Ba%7D.%5Cvec%7Ba%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%20x%5C%5Cy%20%5Cend%7Bbmatrix%7D%20.%20%5Cbegin%7Bbmatrix%7D%20x%5C%5Cy%20%5Cend%7Bbmatrix%7D%20%3D%20x%5E2&plus;y%5E2%20%3D%20%5Cleft%20%5C%7C%20a%20%5Cright%20%5C%7C%5E2)
+> ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Ba%7D.%5Cvec%7Ba%7D%20%3D%20%5Cbegin%7Bbmatrix%7D%20x%5C%5Cy%20%5Cend%7Bbmatrix%7D%20.%20%5Cbegin%7Bbmatrix%7D%20x%5C%5Cy%20%5Cend%7Bbmatrix%7D%20%3D%20x%5E2&plus;y%5E2%20%3D%20%5Cleft%20%5C%7C%20a%20%5Cright%20%5C%7C%5E2)
 
 ***
 
@@ -91,4 +91,4 @@ Let us assume ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%2
 
 Then the projection of ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Ba%7D) onto ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Cvec%7Bb%7D) can be defined as
 
-![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%7Bproj_%7B%5Cvec%7Bb%7D%7D%7D%20%5C%20%7B%5Cvec%7Ba%7D%7D%20%3D%20%5Cleft%20%28%20%5Cfrac%7B%5Cvec%7Ba%7D.%5Cvec%7Bb%7D%7D%7B%5Cleft%20%5C%7C%20%5Cvec%7Bb%7D%20%5Cright%20%5C%7C%5E2%7D%20%5Cright%20%29%5Cvec%7Bb%7D)
+> ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%7Bproj_%7B%5Cvec%7Bb%7D%7D%7D%20%5C%20%7B%5Cvec%7Ba%7D%7D%20%3D%20%5Cleft%20%28%20%5Cfrac%7B%5Cvec%7Ba%7D.%5Cvec%7Bb%7D%7D%7B%5Cleft%20%5C%7C%20%5Cvec%7Bb%7D%20%5Cright%20%5C%7C%5E2%7D%20%5Cright%20%29%5Cvec%7Bb%7D)
