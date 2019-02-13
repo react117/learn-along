@@ -43,7 +43,13 @@ The model can be described as follows:
 - There are two types inputes, excitatory and inhibitory.
 - The model receives inputs from excitatory synapses.
 - Inhibitory inputs holds absolute power over any or all excitatory inputs.
-- The soma of this neuron can be devided into two functions namely f and g.
-- The function g aggretes all the inputs and the function f takes t he dicision based on the aggregarion provided by g.
+- The soma of this neuron can be devided into two parts or functions namely f(or dicision) and g(or aggregation).
+- The function g aggretes all the inputs and the function f takes t he dicision based on the aggregation provided by g.
 - The dicision is taken as if the aggregation of the excitatory inputs is greater than or equal to the threshold then the out put is 1 else the output will be 0. In otherhands, iff the aggregation crosses the threshold then the neuron will fire.
 - Also if the neuron receives an inhibitory input, no matter what it will not fire.
+
+So the model can be summarise as follows.
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20y%3D0%5C%20if%5C%20any%5C%20x_i%5C%20is%5C%20inhibitory%2C%20else%5C%5C%20g%28x_1%2Cx_2%2C...%2Cx_n%29%3Dg%28x%29%3D%5Csum_%7Bi%3D1%7D%5E%7Bn%7Dx_i%5C%5C%5C%5C%20y%3Df%28g%28x%29%29%3D1%5C%20if%5C%20g%28x%29%20%5Cgeq%20b%5C%5C%5C%5C%20y%3Df%28g%28x%29%29%3D0%5C%20if%5C%20g%28x%29%20%3C%20b)
+
+It is evident from the model that b is the threshold.
