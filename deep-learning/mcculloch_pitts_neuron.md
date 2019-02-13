@@ -27,3 +27,23 @@ An artificial neuron is a mathematical function conceived as a model of biologic
 ## McCulloh Pitts Neuron
 
 This is the first computational model of an artificial neuron. This was proposed in 1943 by Warren S. McCulloch, a neuroscientist and Walter Pitts, a logician and hence the model was named after them.
+
+#### Let's see the MP Neuron through the glass of 6 jars concepts.
+
+### The Model
+
+Here the proposed model is a highly simplified computational model of a neuron.
+
+#MP NEURON IMG
+
+The model can be described as follows:
+
+- The model operates on boolean data. Means both the input data and the output data has to be boolean form, else the model will reject them.
+- Each model or neuron has a fixed threshold.
+- There are two types inputes, excitatory and inhibitory.
+- The model receives inputs from excitatory synapses.
+- Inhibitory inputs holds absolute power over any or all excitatory inputs.
+- The soma of this neuron can be devided into two functions namely f and g.
+- The function g aggretes all the inputs and the function f takes t he dicision based on the aggregarion provided by g.
+- The dicision is taken as if the aggregation of the excitatory inputs is greater than or equal to the threshold then the out put is 1 else the output will be 0. In otherhands, iff the aggregation crosses the threshold then the neuron will fire.
+- Also if the neuron receives an inhibitory input, no matter what it will not fire.
