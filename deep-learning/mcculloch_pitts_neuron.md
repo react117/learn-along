@@ -22,7 +22,7 @@ It is a structure that permits a neuron to pass an electrical or chemical signal
 
 An artificial neuron is a mathematical function conceived as a model of biological neurons described above. These are elementary units in an artificial neural network. It receives one or more inputs (via dendrite) and sums them to produce an output (takes place in soma). The output can be represented as an activation which is transmitted along its axon. 
 
-#ART NEURON IMG
+![artificial-neuron](assets/artificial-neuron.PNG)
 
 ## McCulloh Pitts Neuron
 
@@ -34,7 +34,7 @@ This is the first computational model of an artificial neuron. This was proposed
 
 Here the proposed model is a highly simplified computational model of a neuron.
 
-#MP NEURON IMG
+![mp-neuron](assets/mp-neuron.PNG)
 
 The model can be described as follows:
 
