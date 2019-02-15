@@ -88,3 +88,21 @@ L = Loss value (Goal is to find the model which produces the least L)
 y = True value
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Chat%7By_i%7D) = Value produced by the proposed model
+
+### Learning Algorithm
+
+Here the parameter that we need to learn is b which is the threshold. So as we only need to learn a single parameter, we can use a straight forward wat known as the Brute Force Search.
+
+So here we will do the following steps.
+
+1. First we will assume that the value of b is 0.
+2. Then we will plug-in the inputs to the MP Neuron and produce the output.
+3. Then we will calculate the squared error loss.
+4. We will increment the threshold by one.
+5. We will repeat the steps 1-4 for n iterations(n being the total set of inputs) and find the least loss. Our goal is to find the threshold for which loss is 0.
+
+### Evaluation
+
+Here we will use a simple evaluation method which can be described as follows:
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20Accuracy%20%3D%20%5Cfrac%7BNumber%5C%20of%5C%20Correct%5C%20Prediction%7D%7BTotal%5C%20Number%5C%20of%5C%20Predictions%7D)
