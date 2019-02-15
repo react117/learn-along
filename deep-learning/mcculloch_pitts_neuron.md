@@ -28,7 +28,7 @@ An artificial neuron is a mathematical function conceived as a model of biologic
 
 This is the first computational model of an artificial neuron. This was proposed in 1943 by Warren S. McCulloch, a neuroscientist and Walter Pitts, a logician and hence the model was named after them.
 
-#### Let's see the MP Neuron through the glass of [6 jars concepts]. (https://github.com/react117/learn-along/blob/master/deep-learning/six_jars_of_ml.md)
+#### Let's see the MP Neuron through the glass of [6 jars concepts.](https://github.com/react117/learn-along/blob/master/deep-learning/six_jars_of_ml.md)
 
 ### Model
 
