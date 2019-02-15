@@ -76,3 +76,15 @@ Similarly we can make all the other boolean as well. And now our final dataset i
 Also we need to set the thrreshold so that the aggregation of our boolean data produces a result that matches the true output.
 
 ### Loss Function
+
+The loss function in the case of MP Neuron would be Squared Error Loss.
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20L%20%3D%20%5Csum_%7Bi%3D1%7D%5E%7Bn%7D%28y_i%20-%20%5Chat%7By_i%7D%29%5E2)
+
+Where,
+
+L = Loss value (Goal is to find the model which produces the least L)
+
+y = True value
+
+![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20%5Chat%7By_i%7D) = Value produced by the proposed model
