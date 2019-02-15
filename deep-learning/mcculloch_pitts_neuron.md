@@ -30,7 +30,7 @@ This is the first computational model of an artificial neuron. This was proposed
 
 #### Let's see the MP Neuron through the glass of 6 jars concepts.
 
-### The Model
+### Model
 
 Here the proposed model is a highly simplified computational model of a neuron.
 
@@ -53,3 +53,26 @@ So the model can be summarise as follows.
 ![equation](https://latex.codecogs.com/gif.latex?%5Cdpi%7B150%7D%20y%3D0%5C%20if%5C%20any%5C%20x_i%5C%20is%5C%20inhibitory%2C%20else%5C%5C%20g%28x_1%2Cx_2%2C...%2Cx_n%29%3Dg%28x%29%3D%5Csum_%7Bi%3D1%7D%5E%7Bn%7Dx_i%5C%5C%5C%5C%20y%3Df%28g%28x%29%29%3D1%5C%20if%5C%20g%28x%29%20%5Cgeq%20b%5C%5C%5C%5C%20y%3Df%28g%28x%29%29%3D0%5C%20if%5C%20g%28x%29%20%3C%20b)
 
 It is evident from the model that b is the threshold.
+
+### Data
+
+From the mp neuron model it is clear that it only accepts boolean inputs. Now the data that we will get to train this model can be of two types:
+
+1. Naturally Bolean
+2. Non-boolean
+
+Now for the naturally boolean data, we do not have any problem. We can just set the data and start training our model. But for non-boolean data we have a problem. We need to convert the data to boolean.
+
+### Task
+
+#NON-BOOLEAN DATA IMG
+
+Now our task is to predict whether someone will like a phone or dislike it based on the phone's data. Now these data are all real non-boolean data (e.g. the production year of a phone or battery capacity). Now we need to convert them into boolean so that the converted data can be applied to the MP Neuron model.
+
+One example can be, for the production year, if we say that for every phone let's find wheather it came out in last 6 months. Then for every phone the becomes boolean as all those phones either came out in last 6 months (case: 1) or before last 6 months (case: 0).
+
+Similarly we can make all the other boolean as well. And now our final dataset is ready to be fed into the MP Neuron model. This task can be termed as Binary Classification.
+
+Also we need to set the thrreshold so that the aggregation of our boolean data produces a result that matches the true output.
+
+### Loss Function
